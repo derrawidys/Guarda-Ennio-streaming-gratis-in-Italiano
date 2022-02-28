@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Guarda_Ennio_streaming_gratis_in_Italiano.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Guarda_Ennio_streaming_gratis_in_Italiano">
+
+</Application>
